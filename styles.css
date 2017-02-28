@@ -1,0 +1,40 @@
+html {
+	background-color: #020304;
+	color: #541F14;
+	font-style: Arial, sans-serif;
+}
+h1 {
+	text-align: center;
+}
+p {
+	font-size: 22px;
+	text-align: center;
+}
+.header {
+	width: 55%;
+	margin: 0 auto;
+	padding: 5px;
+	border-style: solid;
+}
+.outer {
+	width: 100%;
+}
+nav ul {
+	text-align: center;
+       list-style-type: none;
+       font-size: 30px;
+	margin: 0;
+ 	padding: 0;
+}	
+nav ul li {
+	display: inline;
+}
+nav:hover {
+	background-color: #541F14;
+}
+nav:hover a {
+	color: #CC9E61;
+}
+a {
+	color: #938172;
+}
